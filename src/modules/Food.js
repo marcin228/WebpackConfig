@@ -1,5 +1,7 @@
 export default class Food{
 
-    constructor(){
+    constructor(name){
+
+        this.name = name;
     }
 }
